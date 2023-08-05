@@ -5,7 +5,8 @@
 <br>2. *Analyze the data file in excel*
 (mebl_data.xlsx)
 
-<br>3. *Create a normalized database model from the file*<img width="1728" alt="latest model" src="https://github.com/JiabaoZhuang/Porfolio_Projects/assets/104238908/1e644d18-e1bb-409d-9b28-78e2db021627">
+<br>3. *Create a normalized database model from the file*<img width="1728" alt="latest model" src="https://github.com/JiabaoZhuang/Porfolio_Project_Melb/assets/104238908/872ba0a0-a960-49e7-8f9e-fb13c74a0366">
+
 
 <br>4. *Load the datafile into a STAGE table*
 
