@@ -3,7 +3,7 @@
 <br>1. *[Download data file from Kaggle as CSV](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)*
 
 <br>2. *Analyze the data file in excel*
-melb_data.xlsx
+
 
 <br>3. *Create a normalized database model from the file*<img width="1728" alt="latest model" src="https://github.com/JiabaoZhuang/Porfolio_Projects/assets/104238908/1e644d18-e1bb-409d-9b28-78e2db021627">
 
